@@ -91,6 +91,13 @@ A comprehensive personal finance management application built with Laravel, Iner
    ```
    Access the app at `http://localhost:8000`.
 
+
+## 🔐 Default Credentials (Seeder)
+
+If you ran the seeder, you can log in with:
+- **Email**: `admin@example.com`
+- **Password**: `password`
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
